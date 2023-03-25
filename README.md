@@ -7,6 +7,8 @@
 
 ![Guilherme Vitório GitHub stats](https://github-readme-stats.vercel.app/api?username=guivitorio&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/guivitorio/github-readme-stats)
+
 ### Sobre mim:
 
 Meu nome é Guilherme Vitório
@@ -29,5 +31,8 @@ Tecnologias:
 Banco de dados: Mysql
 
 [![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+
+Stay Hungry. Stay Foolish.
+
 
 
