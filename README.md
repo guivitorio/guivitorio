@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Guilherme Vitório ✋
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilhermevitorio__)
-[![Giithub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guivitorio_)
+[![Giithub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guivitorio)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 ![Guilherme Vitório GitHub stats](https://github-readme-stats.vercel.app/api?username=guivitorio&show_icons=true&theme=tokyonight)
