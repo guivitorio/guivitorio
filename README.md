@@ -13,7 +13,7 @@
 
 Meu nome é Guilherme Vitório
 Estou cursando Ciência da Computação na UNIPE
-Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento back-end e DevOps
+Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento back-end,
 Estou sempre buscando aprender novas tecnologias e ferramentas para melhorar a qualidade e eficiência do meu trabalho.
 
 ### Minhas habilidades
